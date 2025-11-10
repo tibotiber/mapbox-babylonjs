@@ -9,12 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/three": "^0.180.0",
     "typescript": "~5.9.3",
     "vite": "^7.1.7"
   },
   "dependencies": {
-    "mapbox-gl": "^3.15.0",
-    "three": "^0.180.0"
+    "@babylonjs/core": "^8.36.1",
+    "@babylonjs/loaders": "^8.36.1",
+    "mapbox-gl": "^3.15.0"
   }
 }
